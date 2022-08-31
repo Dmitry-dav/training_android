@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practice</string>
+
+    <string name="politic_words">
+        Продолжая, я подтверждаю, что ознакомлен с <font color="#3763FF">Политикой конфиденциальности, Пользовательским соглашением</font> и принимаю их условия
+    </string>
+
+    <string name="post">
+        Введите почту, зарегистрированную в сервисе Jet Sport, и мы вышлем на него рассылку для сброса пароля
+    </string>
+
+</resources>
