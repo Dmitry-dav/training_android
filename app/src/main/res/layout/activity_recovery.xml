@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/grey"
     android:padding="20dp"
-    tools:context=".RecoveryActivity">
+    tools:context=".presentation.RecoveryActivity">
 
     <TextView
         android:id="@+id/tv_recovery_title"
